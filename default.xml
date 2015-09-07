@@ -556,6 +556,7 @@
 
   <!-- New Additions for Team-Razor -->
   <project path="vendor/razor" name="vendor_razor" remote="tr" revision="lp5.1" />
+  <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="tr" revision="lp5.1" />
 
   <!-- Slim file manager -->
   <project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" remote="github" revision="lp5.1" />
