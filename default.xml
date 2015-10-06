@@ -19,7 +19,7 @@
   <remote name="tr"
           fetch="git://github.com/TEAM-RAZOR/"/>
 
-  <default revision="refs/tags/android-5.1.1_r20"
+  <default revision="refs/tags/android-5.1.1_r24"
            remote="aosp"
            sync-j="4" />
 
