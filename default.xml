@@ -563,6 +563,7 @@
   <project path="external/libtruezip" name="android_external_libtruezip" remote="cm" revision="cm-12.1" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="tr" revision="lp5.1" />
   <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="tr" revision="lp5.1" />
+  <project path="packages/apps/ScreenRecorder" name="packages_apps_ScreenRecorder" remote="tr" revision="lp5.1" />
 
   <!-- SlimLauncher -->
   <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" remote="github" revision="lp5.1" />
