@@ -23,7 +23,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="android_build" remote="tr" revision="lp5.1" >
+  <project path="build" name="android_build" remote="tr" revision="test" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="packages/apps/SlimOTA" name="packages_apps_SlimOTA" remote="tr" revision="lp5.1" />
@@ -295,7 +295,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" />
   <project path="frameworks/av" name="SlimRoms/frameworks_av" remote="github" revision="lp5.1" />
-  <project path="frameworks/base" name="frameworks_base" remote="tr" revision="lp5.1" />
+  <project path="frameworks/base" name="frameworks_base" remote="tr" revision="test" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
@@ -438,7 +438,7 @@
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tr" revision="lp5.1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tr" revision="lp5.1" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tr" revision="test" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -553,10 +553,10 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
-  <project path="platform_manifest" name="platform_manifest" remote="tr" revision="lp5.1" />
+  <project path="platform_manifest" name="platform_manifest" remote="tr" revision="test" />
 
   <!-- New Additions for Team-Razor -->
-  <project path="vendor/razor" name="vendor_razor" remote="tr" revision="lp5.1" />
+  <project path="vendor/razor" name="vendor_razor" remote="tr" revision="test" />
   <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="tr" revision="lp5.1" />
   <project path="packages/apps/KernelAdiutor" name="packages_apps_KernelAdiutor" remote="tr" revision="lp5.1" />
   <project path="external/google" name="CyanogenMod/android_external_google" remote="github" revision="cm-12.1" />
