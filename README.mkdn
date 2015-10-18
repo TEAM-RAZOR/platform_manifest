@@ -33,4 +33,7 @@ Then sync up with this command:
 
 Then build with this command:
 -------------------------------
-        ./buildbot.sh {DEVICE-NAME} i.e for the Zenfone 2 I would use ./buildbot.sh Z00A
+        brunch <Device-Name>
+               or
+              ----
+           make razor
