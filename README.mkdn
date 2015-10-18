@@ -34,6 +34,7 @@ Then sync up with this command:
 Then build with this command:
 -------------------------------
         brunch <Device-Name>
+               
                or
-              ----
+---------------------------------               
            make razor
