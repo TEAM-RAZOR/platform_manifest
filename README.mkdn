@@ -31,3 +31,6 @@ Then sync up with this command:
 	repo sync
 
 
+Then build with this command:
+-------------------------------
+        ./buildbot.sh {DEVICE-NAME} i.e for the Zenfone 2 I would use ./buildbot.sh Z00A

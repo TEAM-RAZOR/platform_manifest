@@ -557,6 +557,7 @@
 
   <!-- New Additions for Team-Razor -->
   <project path="vendor/razor" name="vendor_razor" remote="tr" revision="lp5.1" />
+    <copyfile src="tools/buildbot.sh" dest="build.sh" />
   <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="tr" revision="lp5.1" />
   <project path="packages/apps/KernelAdiutor" name="packages_apps_KernelAdiutor" remote="tr" revision="lp5.1" />
   <project path="external/google" name="CyanogenMod/android_external_google" remote="github" revision="cm-12.1" />
