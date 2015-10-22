@@ -584,6 +584,9 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9-kernel" name="UBERTC/aarch64-linux-android-4.9-kernel" remote="bit" revision="master" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-5.2-kernel" name="UBERTC/aarch64-linux-android-5.2-kernel" remote="bit" revision="master" />
 
+  <!-- Sabermod Toolchains -->
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9-sm" name="vibhu0009/GCC_SaberMod" remote="github" revision="master" />
+
   <!-- DashClock widget -->
   <project path="packages/apps/DashClock" name="SlimRoms/packages_apps_DashClock" remote="github" revision="lp5.1" />
 
