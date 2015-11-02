@@ -405,7 +405,7 @@
   <project path="libcore" name="SlimRoms/android_libcore" remote="github" revision="lp5.1" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/AudioFX" name="packages_apps_AudioFX" remote="tr" revision="lp5.1" />
+  <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" remote="github" revision="cm-12.1" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="SlimRoms/packages_apps_Bluetooth" remote="github" revision="lp5.1" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="tr" revision="lp5.1" />
@@ -559,10 +559,10 @@
   <project path="vendor/razor" name="vendor_razor" remote="tr" revision="lp5.1" >
     <copyfile src="tools/buildbot.sh" dest="buildbot.sh" />
   </project>
-  <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="tr" revision="lp5.1" />
+  <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" remote="github" revision="cm-12.1" />
   <project path="external/google" name="CyanogenMod/android_external_google" remote="github" revision="cm-12.1" />
   <project path="external/libtruezip" name="android_external_libtruezip" remote="cm" revision="cm-12.1" />
-  <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="tr" revision="lp5.1" />
+  <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="github" revision="cm-12.1" />
   <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="tr" revision="lp5.1" />
   <project path="packages/apps/ScreenRecorder" name="packages_apps_ScreenRecorder" remote="tr" revision="lp5.1" />
 
