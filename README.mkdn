@@ -23,8 +23,20 @@ cd ~/Razor
 To initialize your local repository using the Razor trees, use this command:
 ----------------------------------------------------------------------------
 
+LOLLIPOP:
+---------
 	repo init -u git://github.com/TEAM-RAZOR/platform_manifest.git -b lp5.1
 
+MARSHMALLOW:
+------------
+        Grab the Sources here:
+        
+        https://github.com/Razor-Developers
+                     OR
+        initialize directly with this command:
+        
+        repo init -u git://github.com/Razor-Developers/platform_manifest.git -b mm-6.0
+        
 
 Then sync up with this command:
 -------------------------------
